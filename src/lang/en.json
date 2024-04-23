@@ -1,0 +1,12 @@
+{
+    "button":{
+        "indv": "Individuel",
+        "comp": "Entreprise"
+    },
+    "slogan":
+    {
+        "first":"A quelques clics de la création de votre compte...",
+        "second":"Choisissez le type d'utilisateur"
+    }
+
+}

@@ -1,0 +1,11 @@
+{
+    "button":{
+        "indv": "Individual",
+        "comp": "Company"
+    },  
+    "slogan":
+    {
+        "first":"A few clicks away from creating your account ...",
+        "second":"Choose the type of user"
+    }
+}
